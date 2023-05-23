@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/ptindia",
+  "jwtSecret": "sl_myJwtSecret"
+}

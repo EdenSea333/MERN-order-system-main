@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/orderdb",
+  "jwtSecret": "sl_myJwtSecret"
+}
